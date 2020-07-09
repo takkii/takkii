@@ -19,7 +19,7 @@ _Ruby trained in Tokyo and continued to study_
 
 ・zinbeijettは、飛行機にジンベイザメが描かれているのをメディアでみて名付けました。
 
-・短絡メソッドは、安全教育と教訓から作りました。かなり勉強料は高めでした。
+・短絡メソッドは、安全教育と人生の教訓から作りました。あると便利です。
 
 ・GitLabインスタンスを使っていた頃もありました。結局、GitHubに戻りました。
 
@@ -31,6 +31,10 @@ _Ruby trained in Tokyo and continued to study_
 
 ・コンソールアプリは必要性があるときに作ってます。数もそれなりにあります。
 ```
+
+> 箱入り娘プロジェクトと個人プロジェクトでOSS活動しています。
+
+> ゴールは、安定的な収益があがり、開発を継続できることです。
 
 <!--
 **takkii/takkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
