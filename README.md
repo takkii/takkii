@@ -34,8 +34,6 @@ _Ruby trained in Tokyo and continued to study_
 ・コンソールアプリは必要性があるときに作ってます。数もそれなりにあります。
 ```
 
-> 箱入り娘と個人でOSS活動しています。開発の目的が違います。
-
 > 終着駅は、安定的な収益が得られ開発を継続できることです。
 
 [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/)
