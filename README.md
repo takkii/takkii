@@ -1,4 +1,4 @@
-### Welcome to GitHub pin page. 👋
+### Welcome to GitHub page. 👋
 
 I'm Certification Ruby Programmer.
 
@@ -7,8 +7,6 @@ For you, Fun Experience That No One Can Imagine.
 Use TextEditor is Neovim / Vim8.
 
 [GitLab](https://gitlab.com/nekoja) | [HP](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース情報](https://rubyist.hatenablog.com/)
-
-「Origin」
 
 _I met Java and started programming_
 
@@ -22,8 +20,6 @@ _Ruby trained in Tokyo and continued to study_
 ・GitHubでOSS活動を自粛していたときもありました。
 
 ・GitLabインスタンスを使っていたころもありました。
-
-・さまざまで個性的なツールを自分のニーズで作りました。
 ```
 
 <!--
