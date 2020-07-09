@@ -4,22 +4,28 @@ I'm Certification Ruby Programmer.
 
 For you, Fun Experience That No One Can Imagine. 
 
-Use TextEditor is Neovim / Vim8.
+My Favorite TextEditor is Neovim / Vim8.
 
-[GitLab](https://gitlab.com/nekoja) | [HP](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース情報](https://rubyist.hatenablog.com/)
+[GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/)
 
 _I met Java and started programming_
 
 _Ruby trained in Tokyo and continued to study_
 
+### 「日本語で略歴」
+
 ```markdown
-「日本語で略歴」
+・のとじま水族館にいってジンベイザメをみて感動し、zinbeiを作り始めたのが懐かしい思い出です。
 
-※ のとじま水族館にいって、ジンベイザメをみて感動し、zinbeiを作り始めたのが懐かしい思い出です。
+・zinbeijettは、飛行機にジンベイザメが描かれているのをメディアでみて名付けました。
 
-・GitHubでOSS活動を自粛していたときもありました。
+・短絡メソッドは、安全教育と教訓から作りました。かなり勉強料は高めでした。
 
-・GitLabインスタンスを使っていたころもありました。
+・GitLabインスタンスを使っていた頃もありました。結局、GitHubに戻りました。
+
+・herokuにWebサイトを登録と公開しました。Sinatra / Railsで制作しました。
+
+・ローカル環境用に図書システムを作りました。mroongaを利用しています。
 ```
 
 <!--
