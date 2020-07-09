@@ -6,16 +6,20 @@
 ### < 代表的なコンソールアプリケーション >
 
 
-[zinbei](https://github.com/takkii/zinbei)、のとじま水族館でジンベイザメをみました。とても大きく、優雅に泳ぎ回っていました。その姿に感動してzinbeiシェルをRubyで作りました。
+[zinbei](https://github.com/takkii/zinbei)、のとじま水族館でジンベイザメをみました。とても大きく、優雅に泳ぎ回っていました。その姿に感動してzinbeiシェルをRubyで作りました。zinbeiとzinbeiwがあります。zinbeiはオプションあり、zinbeiwは対話的プログラムです。helpページに詳細があります。
 
 
-[zinbeijett](https://github.com/takkii/zinbeijett)、飛行機でジンベイザメのデザインがありました。zinbeijettはzinbeiシェルからもう少し機械寄りになった姿です。
+
+[zinbeijett](https://github.com/takkii/zinbeijett)、飛行機でジンベイザメのデザインがありました。zinbeijettはzinbeiシェルからもう少し機械寄りになった姿です。zinbeijettは主にスタートページやヘルプページがまとまっています。engineは多機能でさまざまな機能があります。手動でオプションを使い分けます。
 
 
-[tanraku](https://github.com/takkii/tanraku)、独自例外を発生します。開発にあると便利です。
+
+[tanraku](https://github.com/takkii/tanraku)、独自例外を発生します。開発にあると便利です。コード内にメソッドを追加し、例外を発生させます。手動でわかる範囲であれば、そのままbacktraceをみればわかりますが、空メッセージなど何もない状態を返す場合、ログを記録するか、例外を発生させ、backtraceを呼び起こすことができます。これは開発に向いています。
+
 
 
 #### 私のスポンサーになってくれませんか ?
+
 
 _Sponsorボタンから寄付を募っています。私のOSS活動に付加価値を追加してくれませんか ?_
 
