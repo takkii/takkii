@@ -1,15 +1,26 @@
 ### Welcome to GitHub pin page. 👋
 
 I'm Certification Ruby Programmer.
+
 For you, Fun Experience That No One Can Imagine. 
 
 Use TextEditor is Neovim / Vim8.
 
-[GitLab](https://gitlab.com/nekoja) | [HP](https://takkii.github.io/)
+[GitLab](https://gitlab.com/nekoja) | [HP](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース情報](https://rubyist.hatenablog.com/)
 
 _I met Java and started programming_
 
 _Ruby trained in Tokyo and continued to study_
+
+```markdown
+※ のとじま水族館にいって、ジンベイザメをみて感動し、zinbeiを作り始めたのが懐かしい思い出です。
+
+・GitHubで活動を自粛していたときもありました。
+
+・GitLabインスタンスを使っていたころもありました。
+
+・時間の流れは、人を成長させますね。
+```
 
 <!--
 **takkii/takkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
