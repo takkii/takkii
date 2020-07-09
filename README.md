@@ -3,23 +3,15 @@
 </div>
 
 <br /><br />
-<div style="text-align: center;">
-Welcome to my GitHub repository.
-</div>
+<div style="text-align: center;">Welcome to my GitHub repository.</div>
 <br /><br />
-<div style="text-align: center;">
-I do OSS activities every day.
-</div>
+<div style="text-align: center;">I do OSS activities every day.</div>
 <br /><br />
-<div style="text-align: center;">
-If you like the application you created,
-</div>
+<div style="text-align: center;">If you like the application you created,</div>
 <br /><br />
-<div style="text-align: center;">
-Can you sponsor me?
-</div>
+<div style="text-align: center;">Can you sponsor me?</div>
 <br /><br />
-
+<br /><br />
 _[GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/)_
 
 <!--
