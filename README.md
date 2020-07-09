@@ -1,4 +1,15 @@
-### Hi there 👋
+### takkii/takkii (profile) 👋
+
+I'm Certification Ruby Programmer.
+For you, Fun Experience That No One Can Imagine. 
+
+Use TextEditor is Neovim / Vim8.
+
+[GitLab](https://gitlab.com/nekoja) | [HP](https://takkii.github.io/)
+
+_I met Java and started programming_
+
+_Ruby trained in Tokyo and continued to study_
 
 <!--
 **takkii/takkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
