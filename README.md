@@ -1,4 +1,4 @@
-### takkii/takkii (profile) 👋
+### Welcome to GitHub pin page. 👋
 
 I'm Certification Ruby Programmer.
 For you, Fun Experience That No One Can Imagine. 
