@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/takkii/photo/blob/master/images/twitter.gif" alt="魔方陣" title="logo">
+  <img src="https://github.com/takkii/takkii/blob/master/image/tiger.png" alt="snow leopard" title="logo">
 </div>
 
 
