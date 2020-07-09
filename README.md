@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/takkii/photo/blob/master/images/twitter.gif" alt="魔方陣" title="logo">
+</div>
+
 ### Welcome to GitHub page. 👋
 
 I'm Certification Ruby Programmer.
