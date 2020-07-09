@@ -2,12 +2,10 @@
   <img src="https://github.com/takkii/photo/blob/master/images/twitter.gif" alt="魔方陣" title="logo">
 </div>
 
+### Welcome to GitHub page.
 
-<div style="text-align: center;">
- Welcome to GitHub page. </br>
-</div>
 
-<div style="text-align: center;">
+```markdown
 I'm Certification Ruby Programmer.
 
 For you, Fun Experience That No One Can Imagine. 
@@ -17,13 +15,12 @@ My Favorite TextEditor is Neovim / Vim8.
 I met Java and started programming
 
 Ruby trained in Tokyo and continued to study
-</div>
+```
 
-<div style="text-align: center;">
-日本語で活動歴
-</div>
 
-<div style="text-align: center;">
+#### 日本語で活動歴
+
+```markdown
 ・のとじま水族館にいってジンベイザメをみて感動し、zinbeiを作り始めたのが懐かしい思い出です。
 
 ・zinbeijettは、飛行機にジンベイザメが描かれているのをメディアでみて名付けました。
@@ -39,13 +36,13 @@ Ruby trained in Tokyo and continued to study
 ・QiitaでAdventCalendarに年度ごとに投稿を継続しています。
 
 ・コンソールアプリは必要性があるときに作ってます。数もそれなりにあります。
-</div>
+```
 
-<div style="text-align: center;">
- 終着駅は、安定的な収益が得られ開発を継続できることです。
-</div>
 
-[GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/)
+#### 終着駅は、安定的な収益が得られ開発を継続できることです。
+
+
+_[GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/)_
 
 <!--
 **takkii/takkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
