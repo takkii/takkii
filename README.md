@@ -2,23 +2,27 @@
   <img src="https://github.com/takkii/photo/blob/master/images/twitter.gif" alt="魔方陣" title="logo">
 </div>
 
+
 <div style="text-align: center;">
+  
+<h1> Welcome to GitHub page. 👋 </h1>
 
-### Welcome to GitHub page. 👋
 
-I'm Certification Ruby Programmer.
 
-For you, Fun Experience That No One Can Imagine. 
+<p>I'm Certification Ruby Programmer.</p>
 
-My Favorite TextEditor is Neovim / Vim8.
+<p>For you, Fun Experience That No One Can Imagine. </p>
 
-_I met Java and started programming_
+<p>My Favorite TextEditor is Neovim / Vim8.</p></p>
 
-_Ruby trained in Tokyo and continued to study_
+<p>I met Java and started programming</p>
 
-### 日本語で活動歴
+<p>Ruby trained in Tokyo and continued to study</p>
 
-```markdown
+
+<h3> 日本語で活動歴 </h3>
+
+<pre>
 ・のとじま水族館にいってジンベイザメをみて感動し、zinbeiを作り始めたのが懐かしい思い出です。
 
 ・zinbeijettは、飛行機にジンベイザメが描かれているのをメディアでみて名付けました。
@@ -34,9 +38,9 @@ _Ruby trained in Tokyo and continued to study_
 ・QiitaでAdventCalendarに年度ごとに投稿を継続しています。
 
 ・コンソールアプリは必要性があるときに作ってます。数もそれなりにあります。
-```
+</pre>
 
-> 終着駅は、安定的な収益が得られ開発を継続できることです。
+<p> 終着駅は、安定的な収益が得られ開発を継続できることです。</p>
 
 </div>
 
