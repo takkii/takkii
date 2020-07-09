@@ -12,7 +12,7 @@ _I met Java and started programming_
 
 _Ruby trained in Tokyo and continued to study_
 
-### 「日本語で活動歴」
+### 日本語で活動歴
 
 ```markdown
 ・のとじま水族館にいってジンベイザメをみて感動し、zinbeiを作り始めたのが懐かしい思い出です。
@@ -34,7 +34,7 @@ _Ruby trained in Tokyo and continued to study_
 
 > 箱入り娘と個人でOSS活動しています。開発の目的が違います。
 
-> ゴールは、安定的な収益があがり、開発を継続できることです。
+> 終着駅は、安定的な収益が得られ開発を継続できることです。
 
 <!--
 **takkii/takkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
