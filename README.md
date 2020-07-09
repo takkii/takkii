@@ -5,11 +5,17 @@
 <br /><br />
 <div style="text-align: center;">
 Welcome to my GitHub repository.
-
+</div>
+<br /><br />
+<div style="text-align: center;">
 I do OSS activities every day.
-
+</div>
+<br /><br />
+<div style="text-align: center;">
 If you like the application you created,
-
+</div>
+<br /><br />
+<div style="text-align: center;">
 Can you sponsor me?
 </div>
 <br /><br />
