@@ -12,7 +12,7 @@ _I met Java and started programming_
 
 _Ruby trained in Tokyo and continued to study_
 
-### 「日本語で略歴」
+### 「日本語で活動歴」
 
 ```markdown
 ・のとじま水族館にいってジンベイザメをみて感動し、zinbeiを作り始めたのが懐かしい思い出です。
@@ -26,6 +26,10 @@ _Ruby trained in Tokyo and continued to study_
 ・herokuにWebサイトを登録と公開しました。Sinatra / Railsで制作しました。
 
 ・ローカル環境用に図書システムを作りました。mroongaを利用しています。
+
+・QiitaでAdventCalendarに年度ごとに投稿を継続しています。
+
+・コンソールアプリは必要性があるときに作ってます。数もそれなりにあります。
 ```
 
 <!--
