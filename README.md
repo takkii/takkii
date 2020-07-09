@@ -8,18 +8,22 @@ Use TextEditor is Neovim / Vim8.
 
 [GitLab](https://gitlab.com/nekoja) | [HP](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース情報](https://rubyist.hatenablog.com/)
 
+「Origin」
+
 _I met Java and started programming_
 
 _Ruby trained in Tokyo and continued to study_
 
 ```markdown
+「日本語で略歴」
+
 ※ のとじま水族館にいって、ジンベイザメをみて感動し、zinbeiを作り始めたのが懐かしい思い出です。
 
-・GitHubで活動を自粛していたときもありました。
+・GitHubでOSS活動を自粛していたときもありました。
 
 ・GitLabインスタンスを使っていたころもありました。
 
-・時間の流れは、人を成長させますね。
+・さまざまで個性的なツールを自分のニーズで作りました。
 ```
 
 <!--
