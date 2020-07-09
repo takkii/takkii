@@ -38,9 +38,11 @@ _Ruby trained in Tokyo and continued to study_
 
 > 終着駅は、安定的な収益が得られ開発を継続できることです。
 
+</div>
+
 [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/)
 
-</div>
+
 <!--
 **takkii/takkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
