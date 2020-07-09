@@ -2,6 +2,8 @@
   <img src="https://github.com/takkii/photo/blob/master/images/twitter.gif" alt="魔方陣" title="logo">
 </div>
 
+<div style="text-align: center;">
+
 ### Welcome to GitHub page. 👋
 
 I'm Certification Ruby Programmer.
@@ -38,6 +40,7 @@ _Ruby trained in Tokyo and continued to study_
 
 [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/)
 
+</div>
 <!--
 **takkii/takkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
