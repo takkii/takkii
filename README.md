@@ -1,12 +1,7 @@
-<link href="https://github.com/takkii/takkii/tree/master/css/roll.css" rel="stylesheet">
-
-<div class="magict">
 <div align="center">
   <img src="https://github.com/takkii/photo/blob/master/images/twitter.gif" alt="魔方陣" title="logo">
 </div>
-</div>
 
-</link>
 
 ### < 代表的なコンソールアプリケーション >
 
