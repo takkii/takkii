@@ -2,6 +2,12 @@
   <img src="https://github.com/takkii/takkii/blob/master/image/tiger.png" alt="snow leopard" title="logo">
 </div>
 
+#### 私のスポンサーになってくれませんか ?
+
+
+_[スポンサー](https://github.com/sponsors/takkii)になってくれる個人または企業を募っています。私の活動に寄付してくださり付加価値を与えてくれることに感謝します_
+
+
 
 ### < 代表的なコンソールアプリケーション >
 
@@ -16,15 +22,6 @@
 
 [tanraku](https://github.com/takkii/tanraku)、独自例外を発生します。開発にあると便利です。コード内にメソッドを追加し、例外を発生させます。手動でわかる範囲であれば、そのままbacktraceをみればわかりますが、空メッセージなど何もない状態を返す場合、ログを記録するか、例外を発生させ、backtraceを呼び起こすことができます。これはデバッグ作業や普段の開発に向いています。そのまま、Objectに追加したメソッドもクラスから呼び出すメソッドもあります。使い方はさまざまです。短絡メソッドを使えば、簡単な独自例外処理を自分で書く必要がなくなります。
 
-
-
-#### 私のスポンサーになってくれませんか ?
-
-
-_[スポンサー](https://github.com/sponsors/takkii)になってくれる個人または企業を募っています。私の活動に寄付してくださり付加価値を与えてくれることに感謝します_
-
-
-_| [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/) | [RSSアンテナ](https://standb.herokuapp.com/) | [redmine](https://stormy-fjord-73123.herokuapp.com/) | [スポンサー](https://github.com/sponsors/takkii) | [欲しいもの](https://www.amazon.co.jp/registry/wishlist/7KHDJADOEBVH/ref=cm_sw_r_cp_ep_ws_X69MAb6D1PQZ1) |_
 
 <!--
 **takkii/takkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,3 +52,6 @@ Here are some ideas to get you started:
 
 
 ![動画ねこだるま](https://github.com/takkii/Bignyanco/blob/master/images/neo_nekodaruma.gif)
+
+
+_| [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/) | [RSSアンテナ](https://standb.herokuapp.com/) | [redmine](https://stormy-fjord-73123.herokuapp.com/) | [スポンサー](https://github.com/sponsors/takkii) | [欲しいもの](https://www.amazon.co.jp/registry/wishlist/7KHDJADOEBVH/ref=cm_sw_r_cp_ep_ws_X69MAb6D1PQZ1) |_
