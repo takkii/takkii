@@ -40,3 +40,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[totolot](https://github.com/takkii/totolot)、入力補完辞書を外部から読み込みdeopleteに表示させるプラグインです。Rubyを想定しています。Vim8 / Neovimで動作します。使うと補完リストが増えて便利です。高速化を計るpythonライブラリを利用しているので、先にインストールしなければいけません。思えば、色々ありました。それでも使っている現在を考えると開発や人生の選択に間違いがなかったと思っています。
+
+
+
+![totolot](https://github.com/takkii/totolot/blob/master/images/background.gif)
+
+
+
+[Bignyanco](https://github.com/takkii/Bignyanco)、入力補完辞書が内部にあります。単体でdeopleteに表示させるプラグインです。totolotと同じRubyを想定しています。補完リストが増えます。こちらを最初に作りました。改良はあまりしません。始まりのプラグインです。速度もマシンに寄りますが、それほど遅くありません。高速化を計るプラグインも使用してないので、インストールすればそのまま使えます。懐かしい思い出があります。初心者はこちらを使うべきです。
+
+
+
+![動画ねこだるま](https://github.com/takkii/Bignyanco/blob/master/images/neo_nekodaruma.gif)
