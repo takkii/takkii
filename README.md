@@ -2,10 +2,10 @@
   <img src="https://github.com/takkii/takkii/blob/master/image/tiger.png" alt="snow leopard" title="logo">
 </div>
 
-#### 私のスポンサーになってくれませんか ?
+#### 私のスポンサーになってくれませんか ? 🙇
 
 
-_[スポンサー](https://github.com/sponsors/takkii)になってくれる個人または企業を募っています。私の活動に寄付してくださり付加価値を与えてくれることに感謝します_
+_[スポンサー](https://github.com/sponsors/takkii)になってくれる個人または企業を募っています。私の活動に寄付してくださり付加価値を与えてくれることに感謝します👏_
 
 
 
