@@ -4,13 +4,16 @@
 <br /><br />
 
 <div align="center">
-  <b>私のスポンサーになってくれませんか ? 🙇 </b>
+  <b>私のスポンサーになってくれませんか ? 🙇</b>　<a class="github-button" href="https://github.com/sponsors/takkii" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Sponsor @takkii on GitHub">Sponsor</a>
 </div>
 <br /><br />
 
 <div align="center">
   <p><a href="https://github.com/sponsors/takkii">スポンサー</a>になってくれる個人または企業を募集しています 🎉 </p> 
 </div>
+<br /><br />
+
+<a class="github-button" href="https://github.com/takkii" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @takkii on GitHub">Follow @ntkme</a>
 <br /><br />
 
 #### 「 代表的な自作プログラム 」
