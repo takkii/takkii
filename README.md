@@ -4,7 +4,7 @@
 <br /><br />
 
 <div align="center">
-  <b>私のスポンサーになってくれませんか ? 🙇 </b>　![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)
+  <b>私のスポンサーになってくれませんか ? 🙇 </b>
 </div>
 <br /><br />
 
@@ -12,6 +12,8 @@
   <p><a href="https://github.com/sponsors/takkii">スポンサー</a>になってくれる個人または企業を募集しています 🎉 </p> 
 </div>
 <br /><br />
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)
 
 #### 「 代表的な自作プログラム 」
 
