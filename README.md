@@ -4,7 +4,7 @@
 <br /><br />
 
 <div align="center">
-  <b>私のスポンサーになってくれませんか ? 🙇</b>
+  <b>私のスポンサーになってくれませんか ? 🙇 </b>　![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)
 </div>
 <br /><br />
 
