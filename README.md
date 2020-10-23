@@ -13,7 +13,7 @@
 </div>
 <br /><br />
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)
+| ![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social) 💸 and 🎉 | ![GitHub followers](https://img.shields.io/github/followers/takkii?style=social) 🙆 or 🙅 |
 
 #### 「 代表的な自作プログラム 」
 
