@@ -59,6 +59,10 @@ _| [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io
 
 <br /><br />
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)　🎉　![GitHub followers](https://img.shields.io/github/followers/takkii?style=social)　💐　
+![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)![GitHub followers](https://img.shields.io/github/followers/takkii?style=social)
+
+<br />
+
+| 🎉 | 💐 |
 
 <br /><br />
