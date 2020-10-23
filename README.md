@@ -63,7 +63,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=takkii&count_private=true&theme=dracula)　![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=takkii&theme=dracula)
 
 
-_| [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/) | [RSSアンテナ](https://standb.herokuapp.com/) | [redmine](https://stormy-fjord-73123.herokuapp.com/) | [スポンサー](https://github.com/sponsors/takkii) | [欲しいもの](https://www.amazon.co.jp/registry/wishlist/7KHDJADOEBVH/ref=cm_sw_r_cp_ep_ws_X69MAb6D1PQZ1) | 
+| [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/) | [RSSアンテナ](https://standb.herokuapp.com/) | [redmine](https://stormy-fjord-73123.herokuapp.com/) | [スポンサー](https://github.com/sponsors/takkii) | [欲しいもの](https://www.amazon.co.jp/registry/wishlist/7KHDJADOEBVH/ref=cm_sw_r_cp_ep_ws_X69MAb6D1PQZ1) | 
 
 <br /><br />
 
