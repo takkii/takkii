@@ -8,12 +8,12 @@
 <br /><br />
 
 <div align="center">
-  <b>私のスポンサーになってくれませんか ? 🙇 </b>
+  <b> 私のスポンサーになりませんか ? </b>
 </div>
 <br /><br />
 
 <div align="center">
-  <p><a href="https://github.com/sponsors/takkii">スポンサー</a>になってくれる個人または企業を募集しています </p> 
+  <p><a href="https://github.com/sponsors/takkii">スポンサー</a>になってくださる個人さま、または企業様を募集しています </p> 
 </div>
 <br /><br />
 
