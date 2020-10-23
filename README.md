@@ -9,7 +9,7 @@
 <br /><br />
 
 <div align="center">
-  <p><a href="https://github.com/sponsors/takkii">スポンサー</a>になってくれるスポンサーを募集しています 🎉 </p> 
+  <p><a href="https://github.com/sponsors/takkii">スポンサー</a>になってくれる個人または企業を募集しています 🎉 </p> 
 </div>
 <br /><br />
 
