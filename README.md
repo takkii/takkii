@@ -1,12 +1,17 @@
 <div align="center">
   <img src="https://github.com/takkii/takkii/blob/master/image/tiger.png" alt="snow leopard" title="logo">
 </div>
+<br /><br />
 
 <div align="center">
   <b>私のスポンサーになってくれませんか ? 🙇 </b>
 </div>
+<br /><br />
 
-※ [スポンサー](https://github.com/sponsors/takkii)になってくれるスポンサーを募集しています 🎉
+<div align="center">
+  <p><a href="https://github.com/sponsors/takkii">スポンサー</a>になってくれるスポンサーを募集しています</p> 🎉
+</div>
+<br /><br />
 
 #### 「 代表的な自作プログラム 」
 
