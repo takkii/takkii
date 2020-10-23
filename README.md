@@ -3,6 +3,8 @@
 </div>
 <br /><br />
 
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <div align="center">
   <b>私のスポンサーになってくれませんか ? 🙇</b>　<a class="github-button" href="https://github.com/sponsors/takkii" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Sponsor @takkii on GitHub">Sponsor</a>
 </div>
