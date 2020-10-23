@@ -13,7 +13,7 @@
 </div>
 <br /><br />
 
-<a class="github-button" href="https://github.com/takkii" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @takkii on GitHub">Follow @ntkme</a>
+<a class="github-button" href="https://github.com/takkii" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @takkii on GitHub">Follow @takkii</a>
 <br /><br />
 
 #### 「 代表的な自作プログラム 」
