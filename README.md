@@ -1,3 +1,7 @@
+🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 
+
+<br />
+
 <div align="center">
   <img src="https://github.com/takkii/takkii/blob/master/image/tiger.png" alt="snow leopard" title="logo">
 </div>
@@ -9,9 +13,13 @@
 <br /><br />
 
 <div align="center">
-  <p><a href="https://github.com/sponsors/takkii">スポンサー</a>になってくれる個人または企業を募集しています 🎉 </p> 
+  <p><a href="https://github.com/sponsors/takkii">スポンサー</a>になってくれる個人または企業を募集しています </p> 
 </div>
 <br /><br />
+
+🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 
+
+<br />
 
 #### 「 代表的な自作プログラム 」
 
@@ -63,6 +71,6 @@ _| [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io
 
 <br />
 
-| 🎉 | 💐 |
+🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 
 
 <br /><br />
