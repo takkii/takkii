@@ -2,15 +2,13 @@
   <img src="https://github.com/takkii/takkii/blob/master/image/tiger.png" alt="snow leopard" title="logo">
 </div>
 
-#### 私のスポンサーになってくれませんか ? 🙇
+<div align="center">
+  <b>私のスポンサーになってくれませんか ? 🙇 </b>
+</div>
 
+※ [スポンサー](https://github.com/sponsors/takkii)になってくれるスポンサーを募集しています 🎉
 
-_[スポンサー](https://github.com/sponsors/takkii)になってくれる個人または企業を募っています。私の活動に寄付してくださり付加価値を与えてくれることに感謝します👏_
-
-
-
-### 「 代表的なアプリケーション 」
-
+#### 「 代表的な自作プログラム 」
 
 ![zinbei](https://github-readme-stats.vercel.app/api/pin/?username=takkii&repo=zinbei&show_owner=true&theme=dracula)
 
