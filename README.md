@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/takkii/takkii/blob/master/image/tiger.png" alt="snow leopard" title="logo">
+  <img src="https://github.com/takkii/takkii/blob/main/image/tiger.png" alt="snow leopard" title="logo">
 </div>
 <br /><br />
 
