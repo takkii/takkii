@@ -36,7 +36,7 @@
 
 <br /><br />
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)　![GitHub followers](https://img.shields.io/github/followers/takkii?style=social)　![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)　![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) [![GitHub Status](https://img.shields.io/github/last-commit/takkii/takkii.svg?style=flat)](GitHub)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)　![GitHub followers](https://img.shields.io/github/followers/takkii?style=social)　![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)　![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)　[![GitHub Status](https://img.shields.io/github/last-commit/takkii/takkii.svg?style=flat)](GitHub)
 
 
 <br />
