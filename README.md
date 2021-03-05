@@ -34,7 +34,7 @@
    | <a href="https://gitlab.com/nekoja">GitLab</a> | <a href="https://takkii.github.io/">サポート</a> | <a href="https://takkii.hatenablog.com/">環境構築</a> | <a href="https://rubyist.hatenablog.com/">リリース</a> | <a href="https://www.vector.co.jp/vpack/browse/person/an060630.html">Vector</a> | <a href="https://qiita.com/takkii">Qiita</a> | <a href="https://profile.hatena.ne.jp/emerald00/">プロフィ</a> | <a href="https://standb.herokuapp.com/">RSSアンテナ</a> | <a href="https://github.com/sponsors/takkii">スポンサー</a> | <a href="https://www.amazon.co.jp/registry/wishlist/7KHDJADOEBVH/ref=cm_sw_r_cp_ep_ws_X69MAb6D1PQZ1">欲しいもの</a> | 
 </div>
 
-<br />
+<br /><br />
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)　![GitHub followers](https://img.shields.io/github/followers/takkii?style=social)
 
