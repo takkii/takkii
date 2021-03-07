@@ -29,10 +29,13 @@
 
 <br />
 
-
+<table>
 <div align="center">
-   | <a href="https://gitlab.com/nekoja">GitLab</a> | <a href="https://takkii.github.io/">サポート</a> | <a href="https://takkii.hatenablog.com/">環境構築</a> | <a href="https://rubyist.hatenablog.com/">リリース</a> | <a href="https://www.vector.co.jp/vpack/browse/person/an060630.html">Vector</a> | <a href="https://qiita.com/takkii">Qiita</a> | <a href="https://profile.hatena.ne.jp/emerald00/">プロフィ</a> | <a href="https://standb.herokuapp.com/">RSSアンテナ</a> | <a href="https://github.com/sponsors/takkii">スポンサー</a> | <a href="https://www.amazon.co.jp/registry/wishlist/7KHDJADOEBVH/ref=cm_sw_r_cp_ep_ws_X69MAb6D1PQZ1">欲しいもの</a> | 
+<tr>
+   <th><a href="https://gitlab.com/nekoja">GitLab</a></th><th><a href="https://takkii.github.io/">サポート</a></th><th><a href="https://takkii.hatenablog.com/">環境構築</a></th><th><a href="https://rubyist.hatenablog.com/">リリース</a></th><th><a href="https://www.vector.co.jp/vpack/browse/person/an060630.html">Vector</a></th><th><a href="https://qiita.com/takkii">Qiita</a></th><th><a href="https://profile.hatena.ne.jp/emerald00/">プロフィ</a></th><th><a href="https://standb.herokuapp.com/">RSSアンテナ</a></th><th><a href="https://github.com/sponsors/takkii">スポンサー</a></th><th><a href="https://www.amazon.co.jp/registry/wishlist/7KHDJADOEBVH/ref=cm_sw_r_cp_ep_ws_X69MAb6D1PQZ1">欲しいもの</a></th>
 </div>
+</tr>
+</table>
 
 <br /><br />
 
