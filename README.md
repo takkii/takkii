@@ -24,7 +24,6 @@
 </div>
 
 <br />
-
 <p> OSS活動の状況 </p>
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=takkii&count_private=true&theme=dracula)　　[![trophy](https://github-profile-trophy.vercel.app/?username=takkii&theme=onedark&row=2&column=3)](https://github.com/takkii/github-profile-trophy)
@@ -40,14 +39,14 @@
 </table>
 
 <br />
-
 <p> 総合リンク先 </p>
+<br />
 
 |![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social)|![GitHub followers](https://img.shields.io/github/followers/takkii?style=social)|![GitHub Stars](https://img.shields.io/github/stars/takkii?style=social)|![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)|![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)|[![GitHub Status](https://img.shields.io/github/last-commit/takkii/takkii.svg?style=flat)](GitHub)|![GitHub release](https://img.shields.io/github/release/takkii/takkii.svg?style=flat)| ☕️ |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-<p> どうぞよろしくお願いします </P
-
+<br />
+<p> どうぞよろしくお願いします </p>
 <br />
 
 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 
