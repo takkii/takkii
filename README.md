@@ -31,6 +31,10 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=takkii&count_private=true&theme=dracula)　　[![trophy](https://github-profile-trophy.vercel.app/?username=takkii&theme=onedark&row=2&column=3)](https://github.com/takkii/github-profile-trophy)
 
 <br />
+<div align="center">
+<p> 総合リンク先 </p>
+</div>
+<br />
 
 <table>
 <div align="center">
@@ -42,7 +46,7 @@
 
 <br />
 <div align="center">
-<p> 総合リンク先 </p>
+<p> OSS活動バッジ </p>
 </div>
 <br />
 
