@@ -1,5 +1,5 @@
 <div align="center">
-   <p> 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉  </p>
+   <p> 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉  </p>
 </div>
 
 <br />
@@ -20,12 +20,12 @@
 <br /><br />
 
 <div align="center">
-   <p> 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉  </p>
+   <p> 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉  </p>
 </div>
 
 <br />
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=takkii&count_private=true&theme=dracula)　　[![trophy](https://github-profile-trophy.vercel.app/?username=takkii&theme=onedark&row=2&column=3)](https://github.com/takkii/github-profile-trophy)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=takkii&count_private=true&theme=dracula)　[![trophy](https://github-profile-trophy.vercel.app/?username=takkii&theme=onedark&row=2&column=3)](https://github.com/takkii/github-profile-trophy)
 
 <br />
 
