@@ -47,4 +47,4 @@
 
 <br />
 
-※ トトロット、ねこだるま、まっすぐなどはdeopleteの開発終了とともにサポートを終了します。詳しくは[ここ](https://zenn.dev/shougo/articles/github-sponsors)
+※ トトロット、ねこだるま、まっすぐなどはdeopleteの開発終了とともにサポートを終了します。詳しくは[こちら](https://zenn.dev/shougo/articles/github-sponsors)
