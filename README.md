@@ -50,7 +50,7 @@
 <br />
 
 <div align="center">
-   <p> ※ トトロット、ねこだるま、まっすぐなどはdeopleteの開発終了とともにサポートを終了しました。詳しくは<a href="https://zenn.dev/shougo/articles/github-sponsors">こちら</a></p>
+   <p> ※ トトロット、ねこだるま、まっすぐなどはdeopleteの開発終了とともにサポートを終了しました。</p>
    <br />
   <p>長年、deopleteプラグインとしてトトロット、ねこだるま、まっすぐなどを使用していただきありがとうございました。</p>
    <br />
