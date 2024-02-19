@@ -1,4 +1,4 @@
-![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social) ![GitHub Stars](https://img.shields.io/github/stars/takkii?style=social) [![GitHub Status](https://img.shields.io/github/last-commit/takkii/takkii.svg?style=flat)](GitHub) ![GitHub release](https://img.shields.io/github/release/takkii/takkii.svg?style=flat)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social) ![GitHub Stars](https://img.shields.io/github/stars/takkii?style=social) ![GitHub release](https://img.shields.io/github/release/takkii/takkii.svg?style=flat)
 
 <br />
 
