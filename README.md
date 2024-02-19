@@ -1,5 +1,3 @@
-![GitHub Sponsors](https://img.shields.io/github/sponsors/takkii?style=social) ![GitHub Stars](https://img.shields.io/github/stars/takkii?style=social) ![GitHub release](https://img.shields.io/github/release/takkii/takkii.svg?style=flat)
-
 <br />
 
 <div align="center">
