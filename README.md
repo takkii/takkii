@@ -18,12 +18,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/takkii/takkii/blob/main/images/tiger.png" alt="snow leopard" title="logo">
-</div>
-
-<br /><br />
-
-<div align="center">
    <p>Please become a <a href="https://github.com/sponsors/takkii">sponsor</a> to support my OSS activities.</p>
    <br />
 </div>
