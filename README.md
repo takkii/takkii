@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-   <p><h2>If I had to give my creation a name, 「Chaos Plugins / Tools」.</h2></p>
+   <p><h2>My Plugins and Tools Name is "Chaos Plugins" or "Chaos Tools".</h2></p>
    <br />
 </div>
 
