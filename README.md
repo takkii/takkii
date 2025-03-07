@@ -23,11 +23,6 @@
 </div>
 
 <div align="center">
-   <p><h2>My Plugins and Tools Name is "Chaos Plugins" or "Chaos Tools".</h2></p>
-   <br />
-</div>
-
-<div align="center">
    <p> 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉  </p>
 </div>
 
