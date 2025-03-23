@@ -18,11 +18,6 @@
 <br />
 
 <div align="center">
-   <p><h2>Please become a <a href="https://github.com/sponsors/takkii">sponsor</a> to support my OSS activities.</h2></p>
-   <br />
-</div>
-
-<div align="center">
    <p> 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉  </p>
 </div>
 
