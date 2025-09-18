@@ -2,10 +2,11 @@
 <br />
 
 <div align="center"> 
-  <h2>Author Takayuki Kamiyama</h2>
+  <h2>Author Takayuki Kamiyama / GitHub ID takkii</h2>
 </div>
 
 <br />
 <br />
+
 
 
