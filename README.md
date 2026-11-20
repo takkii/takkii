@@ -1,12 +1,11 @@
-<br />
-<br />
+### 2026年10月に新規開発は終わりました。
 
-<div align="center"> 
-  <h2>Author Takayuki Kamiyama / GitHub ID takkii</h2>
-</div>
+> 私の制作物はもうMITライセンスではありません。
 
-<br />
-<br />
+※ 勝手に作成した文書の内容により、使えます。
 
+```markdown
+応援しているVimスポンサーは認めます。
 
-
+その界隈の作者のプラグインに依存してしまったためです。
+```
